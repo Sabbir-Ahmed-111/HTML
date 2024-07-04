@@ -1,2 +1,2 @@
 # HTML
-project html 
+practice html 
